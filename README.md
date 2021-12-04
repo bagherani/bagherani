@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1>MOHAMMAD BAGHERANI</h1>
+<p>Front-End Web Developer</p>
+<style>
+  a img{vertical-align:middle;}
+</style>
 
-<!--
-**bagherani/bagherani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>How to contact me:</h3>
+<ul>
+  <li>
+    <a href="https://github.com/bagherani"><img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" width="16" height="16"/> github profile</a>
+  </li>
+</ul>

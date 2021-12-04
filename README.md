@@ -1,8 +1,5 @@
 <h1>MOHAMMAD BAGHERANI</h1>
 <p>Front-End Web Developer</p>
-<style>
-  a img{vertical-align:middle;}
-</style>
 
 <h3>How to contact me:</h3>
 <ul>

@@ -1,6 +1,6 @@
 # Hi, I'm Mohi 👋
 
-<strong>I am a Front-end Developer</strong>
+<strong>I am a Software Engineer</strong>
 
 Software engineer with administration knowledge, and 8+ years of experience in web development. Collaborated with 6+ teams of up to 20 members. Worked in depth with popular web and javascript frameworks on enterprise-level projects.
 

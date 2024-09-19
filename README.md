@@ -2,7 +2,7 @@
 
 <strong>I am a Software Engineer</strong>
 
-Software engineer with administration knowledge, and 8+ years of experience in web development. Collaborated with 6+ teams of up to 20 members. Worked in depth with popular web and javascript frameworks on enterprise-level projects.
+Software engineer with administration knowledge, and 10+ years of experience in web development. I have collaborated with 8+ teams of up to 20 members. I have worked in depth with popular web and javascript frameworks on enterprise-level projects.
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
